@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Algoritm Complexity Extension",
+    "version": "1.0.0",
+    "description": "Shows complexities of random algorithms",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "algo-icon.png"
+    },
+    "icons": {
+        "16": "algo-icon.png",
+        "32": "algo-icon.png",
+        "48": "algo-icon.png",
+        "128": "algo-icon.png"
+    }
+}
