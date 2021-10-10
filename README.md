@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/header.jpg)](https://ankushsinghgandhi.github.io)
+<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698218-0c4b1a49-6d78-45cd-8674-9db0757138db.jpg"></a>
 <p align="center">
   <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -58,4 +58,4 @@ Once you have the extension code:
 
 ![Screenshot from 2021-10-08 17-32-05](https://user-images.githubusercontent.com/55637484/136553728-082dfb4f-ceaf-42be-9dfa-4375708c4188.png)
 
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
+<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698262-a5715d94-fa1b-4b73-9e07-13a9f08538db.jpg"></a>
