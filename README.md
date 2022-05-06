@@ -39,7 +39,7 @@ A Chrome Extension to randomly display the complexities of different algorithms.
 To download the extension, run the following command in your __Command Prompt/Terminal__:
 
 ```
-git clone https://github.com/AnkushSinghGandhi/profile-chrome-extension.git
+git clone https://github.com/AnkushSinghGandhi/algorithm-complexity-extension.git
 ```
 
 Or alternatively, you can [__Download a ZIP__](https://github.com/AnkushSinghGandhi/profile-chrome-extension/archive/refs/heads/main.zip) and then unpack the ZIP folder.
